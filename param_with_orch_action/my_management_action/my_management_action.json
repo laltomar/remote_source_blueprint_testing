@@ -1,0 +1,17 @@
+{
+    "action_input_default_values": [],
+    "base_action_name": "My Management Action",
+    "dangerous": false,
+    "dialog_message": "",
+    "enabled": true,
+    "extra_classes": "",
+    "id": "RSA-umw36dgh",
+    "is_synchronous": false,
+    "label": "My Management Action",
+    "last_updated": "2023-02-02",
+    "list_view_visible": true,
+    "maximum_version_required": "",
+    "minimum_version_required": "8.6",
+    "requires_approval": false,
+    "submit_button_label": ""
+}

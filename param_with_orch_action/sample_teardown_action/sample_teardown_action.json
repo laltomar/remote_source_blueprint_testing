@@ -1,0 +1,14 @@
+{
+    "description": "",
+    "id": "OHK-5j8fojbu",
+    "last_updated": "2023-02-02",
+    "max_retries": 0,
+    "maximum_version_required": "",
+    "minimum_version_required": "8.6",
+    "name": "Sample Teardown Action",
+    "resource_technologies": [],
+    "script_filename": "cb_plugin_1674933019887371_Bu3MtEr.py",
+    "shared": false,
+    "target_os_families": [],
+    "type": "CloudBolt Plug-in"
+}
